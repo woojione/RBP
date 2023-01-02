@@ -1,2 +1,0 @@
-# RBP
-RaspberryPi Project
